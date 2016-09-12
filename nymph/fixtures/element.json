@@ -1,0 +1,6280 @@
+[
+{
+  "model": "nymph.element",
+  "pk": 1,
+  "fields": {
+    "symbol": "H",
+    "nameCH": "\u6c22",
+    "nameEN": "Hydrogen"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 2,
+  "fields": {
+    "symbol": "He",
+    "nameCH": "\u6c26",
+    "nameEN": "Helium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 3,
+  "fields": {
+    "symbol": "Li",
+    "nameCH": "\u9502",
+    "nameEN": "Lithium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 4,
+  "fields": {
+    "symbol": "Be",
+    "nameCH": "\u94cd",
+    "nameEN": "Beryllium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 5,
+  "fields": {
+    "symbol": "B",
+    "nameCH": "\u787c",
+    "nameEN": "Boron"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 6,
+  "fields": {
+    "symbol": "C",
+    "nameCH": "\u78b3",
+    "nameEN": "Carbon"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 7,
+  "fields": {
+    "symbol": "N",
+    "nameCH": "\u6c2e",
+    "nameEN": "Nitrogen"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 8,
+  "fields": {
+    "symbol": "O",
+    "nameCH": "\u6c27",
+    "nameEN": "Oxygen"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 9,
+  "fields": {
+    "symbol": "F",
+    "nameCH": "\u6c1f",
+    "nameEN": "Fluorine"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 10,
+  "fields": {
+    "symbol": "Ne",
+    "nameCH": "\u6c16",
+    "nameEN": "Neon"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 11,
+  "fields": {
+    "symbol": "Na",
+    "nameCH": "\u94a0",
+    "nameEN": "Sodium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 12,
+  "fields": {
+    "symbol": "Mg",
+    "nameCH": "\u9541",
+    "nameEN": "Magnesium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 13,
+  "fields": {
+    "symbol": "Al",
+    "nameCH": "\u94dd",
+    "nameEN": "Aluminum"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 14,
+  "fields": {
+    "symbol": "Si",
+    "nameCH": "\u7845",
+    "nameEN": "Silicon"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 15,
+  "fields": {
+    "symbol": "P",
+    "nameCH": "\u78f7",
+    "nameEN": "Phosphorus"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 16,
+  "fields": {
+    "symbol": "S",
+    "nameCH": "\u786b",
+    "nameEN": "Sulfur"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 17,
+  "fields": {
+    "symbol": "Cl",
+    "nameCH": "\u6c2f",
+    "nameEN": "Chlorine"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 18,
+  "fields": {
+    "symbol": "Ar",
+    "nameCH": "\u6c29",
+    "nameEN": "Argon"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 19,
+  "fields": {
+    "symbol": "K",
+    "nameCH": "\u94be",
+    "nameEN": "Potassium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 20,
+  "fields": {
+    "symbol": "Ca",
+    "nameCH": "\u9499",
+    "nameEN": "Calcium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 21,
+  "fields": {
+    "symbol": "Sc",
+    "nameCH": "\u94aa",
+    "nameEN": "Scandium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 22,
+  "fields": {
+    "symbol": "Ti",
+    "nameCH": "\u949b",
+    "nameEN": "Titanium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 23,
+  "fields": {
+    "symbol": "V",
+    "nameCH": "\u9492",
+    "nameEN": "Vanadium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 24,
+  "fields": {
+    "symbol": "Cr",
+    "nameCH": "\u94ec",
+    "nameEN": "Chromium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 25,
+  "fields": {
+    "symbol": "Mn",
+    "nameCH": "\u9530",
+    "nameEN": "Manganese"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 26,
+  "fields": {
+    "symbol": "Fe",
+    "nameCH": "\u94c1",
+    "nameEN": "Iron"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 27,
+  "fields": {
+    "symbol": "Co",
+    "nameCH": "\u94b4",
+    "nameEN": "Cobalt"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 28,
+  "fields": {
+    "symbol": "Ni",
+    "nameCH": "\u954d",
+    "nameEN": "Nickel"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 29,
+  "fields": {
+    "symbol": "Cu",
+    "nameCH": "\u94dc",
+    "nameEN": "Copper"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 30,
+  "fields": {
+    "symbol": "Zn",
+    "nameCH": "\u950c",
+    "nameEN": "Zinc"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 31,
+  "fields": {
+    "symbol": "Ga",
+    "nameCH": "\u9553",
+    "nameEN": "Gallium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 32,
+  "fields": {
+    "symbol": "Ge",
+    "nameCH": "\u9517",
+    "nameEN": "Germanium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 33,
+  "fields": {
+    "symbol": "As",
+    "nameCH": "\u7837",
+    "nameEN": "Arsenic"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 34,
+  "fields": {
+    "symbol": "Se",
+    "nameCH": "\u7852",
+    "nameEN": "Selenium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 35,
+  "fields": {
+    "symbol": "Br",
+    "nameCH": "\u6eb4",
+    "nameEN": "Bromine"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 36,
+  "fields": {
+    "symbol": "Kr",
+    "nameCH": "\u6c2a",
+    "nameEN": "Krypton"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 37,
+  "fields": {
+    "symbol": "Rb",
+    "nameCH": "\u94f7",
+    "nameEN": "Rubidium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 38,
+  "fields": {
+    "symbol": "Sr",
+    "nameCH": "\u9536",
+    "nameEN": "Strontium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 39,
+  "fields": {
+    "symbol": "Y",
+    "nameCH": "\u9487",
+    "nameEN": "Yttrium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 40,
+  "fields": {
+    "symbol": "Zr",
+    "nameCH": "\u9506",
+    "nameEN": "Zirconium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 41,
+  "fields": {
+    "symbol": "Nb",
+    "nameCH": "\u94cc",
+    "nameEN": "Niobium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 42,
+  "fields": {
+    "symbol": "Mo",
+    "nameCH": "\u94bc",
+    "nameEN": "Molybdenum"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 43,
+  "fields": {
+    "symbol": "Tc",
+    "nameCH": "\u951d",
+    "nameEN": "Technetium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 44,
+  "fields": {
+    "symbol": "Ru",
+    "nameCH": "\u948c",
+    "nameEN": "Ruthenium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 45,
+  "fields": {
+    "symbol": "Rh",
+    "nameCH": "\u94d1",
+    "nameEN": "Rhodium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 46,
+  "fields": {
+    "symbol": "Pd",
+    "nameCH": "\u94af",
+    "nameEN": "Palladium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 47,
+  "fields": {
+    "symbol": "Ag",
+    "nameCH": "\u94f6",
+    "nameEN": "Silver"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 48,
+  "fields": {
+    "symbol": "Cd",
+    "nameCH": "\u9549",
+    "nameEN": "Cadmium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 49,
+  "fields": {
+    "symbol": "In",
+    "nameCH": "\u94df",
+    "nameEN": "Indium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 50,
+  "fields": {
+    "symbol": "Sn",
+    "nameCH": "\u9521",
+    "nameEN": "Tin"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 51,
+  "fields": {
+    "symbol": "Sb",
+    "nameCH": "\u9511",
+    "nameEN": "Antimony"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 52,
+  "fields": {
+    "symbol": "Te ",
+    "nameCH": "\u78b2",
+    "nameEN": "Tellurium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 53,
+  "fields": {
+    "symbol": "I",
+    "nameCH": "\u7898",
+    "nameEN": "Iodine"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 54,
+  "fields": {
+    "symbol": "Xe",
+    "nameCH": "\u6c19",
+    "nameEN": "Xenon"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 55,
+  "fields": {
+    "symbol": "Cs",
+    "nameCH": "\u94ef",
+    "nameEN": "Cesium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 56,
+  "fields": {
+    "symbol": "Ba",
+    "nameCH": "\u94a1",
+    "nameEN": "Barium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 57,
+  "fields": {
+    "symbol": "La",
+    "nameCH": "\u9567",
+    "nameEN": "Lanthanum"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 58,
+  "fields": {
+    "symbol": "Ce",
+    "nameCH": "\u94c8",
+    "nameEN": "Cerium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 59,
+  "fields": {
+    "symbol": "Pr",
+    "nameCH": "\u9568",
+    "nameEN": "Praseodymium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 60,
+  "fields": {
+    "symbol": "Nd",
+    "nameCH": "\u9495",
+    "nameEN": "Neodymium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 61,
+  "fields": {
+    "symbol": "Pm",
+    "nameCH": "\u94b7",
+    "nameEN": "Promethium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 62,
+  "fields": {
+    "symbol": "Sm",
+    "nameCH": "\u9490",
+    "nameEN": "Samarium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 63,
+  "fields": {
+    "symbol": "Eu",
+    "nameCH": "\u94d5",
+    "nameEN": "Europium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 64,
+  "fields": {
+    "symbol": "Gd",
+    "nameCH": "\u9486",
+    "nameEN": "Gadolinium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 65,
+  "fields": {
+    "symbol": "Tb",
+    "nameCH": "\u94fd",
+    "nameEN": "Terbium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 66,
+  "fields": {
+    "symbol": "Dy",
+    "nameCH": "\u955d",
+    "nameEN": "Dysprosium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 67,
+  "fields": {
+    "symbol": "Ho",
+    "nameCH": "\u94ac",
+    "nameEN": "Holmium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 68,
+  "fields": {
+    "symbol": "Er",
+    "nameCH": "\u94d2",
+    "nameEN": "Erbium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 69,
+  "fields": {
+    "symbol": "Tm",
+    "nameCH": "\u94e5",
+    "nameEN": "Thulium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 70,
+  "fields": {
+    "symbol": "Yb",
+    "nameCH": "\u9571",
+    "nameEN": "Ytterbium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 71,
+  "fields": {
+    "symbol": "Lu",
+    "nameCH": "\u9565",
+    "nameEN": "Lutetium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 72,
+  "fields": {
+    "symbol": "Hf",
+    "nameCH": "\u94ea",
+    "nameEN": "Hafnium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 73,
+  "fields": {
+    "symbol": "Ta",
+    "nameCH": "\u94bd",
+    "nameEN": "Tantalum"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 74,
+  "fields": {
+    "symbol": "W",
+    "nameCH": "\u94a8",
+    "nameEN": "Tungsten"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 75,
+  "fields": {
+    "symbol": "Re",
+    "nameCH": "\u94fc",
+    "nameEN": "Rhenium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 76,
+  "fields": {
+    "symbol": "Os",
+    "nameCH": "\u9507",
+    "nameEN": "Osmium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 77,
+  "fields": {
+    "symbol": "Ir",
+    "nameCH": "\u94f1",
+    "nameEN": "Iridium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 78,
+  "fields": {
+    "symbol": "Pt",
+    "nameCH": "\u94c2",
+    "nameEN": "Platinum"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 79,
+  "fields": {
+    "symbol": "Au",
+    "nameCH": "\u91d1",
+    "nameEN": "Gold"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 80,
+  "fields": {
+    "symbol": "Hg",
+    "nameCH": "\u6c5e",
+    "nameEN": "Mercury"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 81,
+  "fields": {
+    "symbol": "Tl",
+    "nameCH": "\u94ca",
+    "nameEN": "Thallium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 82,
+  "fields": {
+    "symbol": "Pb",
+    "nameCH": "\u94c5",
+    "nameEN": "Lead"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 83,
+  "fields": {
+    "symbol": "Bi",
+    "nameCH": "\u94cb",
+    "nameEN": "Bismuth"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 84,
+  "fields": {
+    "symbol": "Po",
+    "nameCH": "\u948b",
+    "nameEN": "Polonium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 85,
+  "fields": {
+    "symbol": "At",
+    "nameCH": "\u7839",
+    "nameEN": "Astatine"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 86,
+  "fields": {
+    "symbol": "Rn",
+    "nameCH": "\u6c21",
+    "nameEN": "Radon"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 87,
+  "fields": {
+    "symbol": "Fr",
+    "nameCH": "\u94ab",
+    "nameEN": "Francium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 88,
+  "fields": {
+    "symbol": "Ra",
+    "nameCH": "\u956d",
+    "nameEN": "Radium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 89,
+  "fields": {
+    "symbol": "Ac",
+    "nameCH": "\u9515",
+    "nameEN": "Actinium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 90,
+  "fields": {
+    "symbol": "Th",
+    "nameCH": "\u948d",
+    "nameEN": "Thorium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 91,
+  "fields": {
+    "symbol": "Pa",
+    "nameCH": "\u9564",
+    "nameEN": "Protactinium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 92,
+  "fields": {
+    "symbol": "U",
+    "nameCH": "\u94c0",
+    "nameEN": "Uranium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 93,
+  "fields": {
+    "symbol": "Np",
+    "nameCH": "\u954e",
+    "nameEN": "Neptunium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 94,
+  "fields": {
+    "symbol": "Pu",
+    "nameCH": "\u949a",
+    "nameEN": "Plutonium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 95,
+  "fields": {
+    "symbol": "Am",
+    "nameCH": "\u9545",
+    "nameEN": "Americium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 96,
+  "fields": {
+    "symbol": "Cm",
+    "nameCH": "\u9514",
+    "nameEN": "Curium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 97,
+  "fields": {
+    "symbol": "Bk",
+    "nameCH": "\u952b",
+    "nameEN": "Berkelium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 98,
+  "fields": {
+    "symbol": "Cf",
+    "nameCH": "\u950e",
+    "nameEN": "Californium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 99,
+  "fields": {
+    "symbol": "Es",
+    "nameCH": "\u953f",
+    "nameEN": "Einsteinium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 100,
+  "fields": {
+    "symbol": "Fm",
+    "nameCH": "\u9544",
+    "nameEN": "Fermium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 101,
+  "fields": {
+    "symbol": "Md",
+    "nameCH": "\u9494",
+    "nameEN": "Mendelevium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 102,
+  "fields": {
+    "symbol": "No",
+    "nameCH": "\u9518",
+    "nameEN": "Nobelium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 103,
+  "fields": {
+    "symbol": "Lr",
+    "nameCH": "\u94f9",
+    "nameEN": "Lawrencium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 104,
+  "fields": {
+    "symbol": "Rf",
+    "nameCH": "\u9229",
+    "nameEN": "Rutherfordium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 105,
+  "fields": {
+    "symbol": "Db",
+    "nameCH": "\u9485\u675c",
+    "nameEN": "Dubnium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 106,
+  "fields": {
+    "symbol": "Sg",
+    "nameCH": "\u9485\u559c",
+    "nameEN": "Seaborgium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 107,
+  "fields": {
+    "symbol": "Bh",
+    "nameCH": "\u9485\u6ce2",
+    "nameEN": "Bohrium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 108,
+  "fields": {
+    "symbol": "Hs",
+    "nameCH": "\u9485\u9ed1",
+    "nameEN": "Hassium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 109,
+  "fields": {
+    "symbol": "Mt",
+    "nameCH": "\u9485\u9ea6",
+    "nameEN": "Meitnerium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 110,
+  "fields": {
+    "symbol": "Ds",
+    "nameCH": "\u9485\u8fbe",
+    "nameEN": "Darmstadtium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 111,
+  "fields": {
+    "symbol": "Rg",
+    "nameCH": "\u9300",
+    "nameEN": "Roentgentium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 112,
+  "fields": {
+    "symbol": "Cn",
+    "nameCH": "\u93b6",
+    "nameEN": "Copernicum"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 113,
+  "fields": {
+    "symbol": "Uut",
+    "nameCH": "113\u53f7\u5143\u7d20",
+    "nameEN": "Ununtrium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 114,
+  "fields": {
+    "symbol": "Fl",
+    "nameCH": "\u9207",
+    "nameEN": "Flerovium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 115,
+  "fields": {
+    "symbol": "Uup",
+    "nameCH": "eka\u94cb",
+    "nameEN": "Ununpentium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 116,
+  "fields": {
+    "symbol": "Lv",
+    "nameCH": "\u925d",
+    "nameEN": "Livermorium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 117,
+  "fields": {
+    "symbol": "Uus",
+    "nameCH": "eka\u7839",
+    "nameEN": "Ununseptium"
+  }
+},
+{
+  "model": "nymph.element",
+  "pk": 118,
+  "fields": {
+    "symbol": "Uuo",
+    "nameCH": "eka\u6c21",
+    "nameEN": "Ununoctium"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 1,
+  "fields": {
+    "element": 1,
+    "nuclide_name": "1-H (H2O)",
+    "id_wims": 3001,
+    "id_self_defined": 1001,
+    "amu": "1.007830",
+    "nf": 0,
+    "material_type": "M",
+    "description": "\u8f7b\u6c34\u4e2d\u7684H"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 2,
+  "fields": {
+    "element": 1,
+    "nuclide_name": "1-H ZrH",
+    "id_wims": 5001,
+    "id_self_defined": 1107,
+    "amu": "1.007830",
+    "nf": 0,
+    "material_type": "M",
+    "description": "ZrH\u4e2d\u7684H"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 3,
+  "fields": {
+    "element": 1,
+    "nuclide_name": "1-D D2O",
+    "id_wims": 3002,
+    "id_self_defined": 1002,
+    "amu": "2.014100",
+    "nf": 0,
+    "material_type": "M",
+    "description": "\u91cd\u6c34\u4e2d\u7684D\u3000"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 4,
+  "fields": {
+    "element": 2,
+    "nuclide_name": "2-He-3",
+    "id_wims": 3,
+    "id_self_defined": 2003,
+    "amu": "3.014930",
+    "nf": 0,
+    "material_type": "S",
+    "description": "He-3"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 5,
+  "fields": {
+    "element": 2,
+    "nuclide_name": "2-He-4",
+    "id_wims": 4,
+    "id_self_defined": 2004,
+    "amu": "4.036170",
+    "nf": 0,
+    "material_type": "S",
+    "description": "He-4"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 6,
+  "fields": {
+    "element": 3,
+    "nuclide_name": "3-Li-6",
+    "id_wims": 6,
+    "id_self_defined": 3006,
+    "amu": "6.015070",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Li-6"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 7,
+  "fields": {
+    "element": 3,
+    "nuclide_name": "3-Li-7",
+    "id_wims": 7,
+    "id_self_defined": 3007,
+    "amu": "7.016010",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Li-7"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 8,
+  "fields": {
+    "element": 4,
+    "nuclide_name": "4-Be-nat",
+    "id_wims": 9,
+    "id_self_defined": 4000,
+    "amu": "9.012200",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Be"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 9,
+  "fields": {
+    "element": 5,
+    "nuclide_name": "5-B 10",
+    "id_wims": 10,
+    "id_self_defined": 5010,
+    "amu": "10.012900",
+    "nf": 0,
+    "material_type": "B",
+    "description": "B-10 (\u53ef\u71c3)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 10,
+  "fields": {
+    "element": 5,
+    "nuclide_name": "5-B 10",
+    "id_wims": 1010,
+    "id_self_defined": 5910,
+    "amu": "10.012900",
+    "nf": 0,
+    "material_type": "S",
+    "description": "B-10 (\u4e0d\u53ef\u71c3)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 11,
+  "fields": {
+    "element": 5,
+    "nuclide_name": "5-B 11",
+    "id_wims": 11,
+    "id_self_defined": 5011,
+    "amu": "11.009300",
+    "nf": 0,
+    "material_type": "B",
+    "description": "B-11 (\u53ef\u71c3)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 12,
+  "fields": {
+    "element": 5,
+    "nuclide_name": "5-B nat",
+    "id_wims": 1011,
+    "id_self_defined": 5000,
+    "amu": "10.811000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u787c(\u4e0d\u53ef\u71c3)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 13,
+  "fields": {
+    "element": 6,
+    "nuclide_name": "6-C nat",
+    "id_wims": 2012,
+    "id_self_defined": 6000,
+    "amu": "12.001100",
+    "nf": 0,
+    "material_type": "M",
+    "description": "\u77f3\u58a8"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 14,
+  "fields": {
+    "element": 7,
+    "nuclide_name": "7-N nat",
+    "id_wims": 14,
+    "id_self_defined": 7000,
+    "amu": "14.006700",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u6c2e"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 15,
+  "fields": {
+    "element": 8,
+    "nuclide_name": "8-O nat",
+    "id_wims": 6016,
+    "id_self_defined": 8000,
+    "amu": "15.990500",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u6c27"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 16,
+  "fields": {
+    "element": 9,
+    "nuclide_name": "9-F nat",
+    "id_wims": 19,
+    "id_self_defined": 9000,
+    "amu": "18.998200",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u6c1f"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 17,
+  "fields": {
+    "element": 11,
+    "nuclide_name": "11-Na-nat",
+    "id_wims": 23,
+    "id_self_defined": 11000,
+    "amu": "22.989500",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94a0"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 18,
+  "fields": {
+    "element": 12,
+    "nuclide_name": "12-Mg-nat",
+    "id_wims": 24,
+    "id_self_defined": 12000,
+    "amu": "24.305100",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u9541"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 19,
+  "fields": {
+    "element": 13,
+    "nuclide_name": "13-Al-nat",
+    "id_wims": 27,
+    "id_self_defined": 13000,
+    "amu": "26.981500",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94dd"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 20,
+  "fields": {
+    "element": 14,
+    "nuclide_name": "14-Si-nat",
+    "id_wims": 29,
+    "id_self_defined": 14000,
+    "amu": "28.085900",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u7845"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 21,
+  "fields": {
+    "element": 15,
+    "nuclide_name": "15-P nat",
+    "id_wims": 31,
+    "id_self_defined": 15000,
+    "amu": "30.974100",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u78f7"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 22,
+  "fields": {
+    "element": 16,
+    "nuclide_name": "16-S nat",
+    "id_wims": 32,
+    "id_self_defined": 16000,
+    "amu": "32.063700",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u786b"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 23,
+  "fields": {
+    "element": 17,
+    "nuclide_name": "17-Cl-nat",
+    "id_wims": 35,
+    "id_self_defined": 17000,
+    "amu": "35.452600",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u6c2f"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 24,
+  "fields": {
+    "element": 20,
+    "nuclide_name": "20-Ca-nat",
+    "id_wims": 40,
+    "id_self_defined": 20000,
+    "amu": "40.080300",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u9499"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 25,
+  "fields": {
+    "element": 22,
+    "nuclide_name": "22-Ti-nat",
+    "id_wims": 48,
+    "id_self_defined": 22000,
+    "amu": "47.878900",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u949b"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 26,
+  "fields": {
+    "element": 23,
+    "nuclide_name": "23-V nat",
+    "id_wims": 51,
+    "id_self_defined": 23000,
+    "amu": "50.941600",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u9492"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 27,
+  "fields": {
+    "element": 24,
+    "nuclide_name": "24-Cr-nat",
+    "id_wims": 52,
+    "id_self_defined": 24000,
+    "amu": "51.995900",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94ec"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 28,
+  "fields": {
+    "element": 25,
+    "nuclide_name": "25-Mn-nat",
+    "id_wims": 55,
+    "id_self_defined": 25000,
+    "amu": "54.938100",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u9530"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 29,
+  "fields": {
+    "element": 26,
+    "nuclide_name": "26-Fe-nat",
+    "id_wims": 2056,
+    "id_self_defined": 26000,
+    "amu": "55.846400",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94c1"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 30,
+  "fields": {
+    "element": 28,
+    "nuclide_name": "28-Ni-nat",
+    "id_wims": 58,
+    "id_self_defined": 28000,
+    "amu": "58.693600",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u954d"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 31,
+  "fields": {
+    "element": 27,
+    "nuclide_name": "27-Co- 59",
+    "id_wims": 1059,
+    "id_self_defined": 27059,
+    "amu": "58.933200",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u94b4-59"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 32,
+  "fields": {
+    "element": 29,
+    "nuclide_name": "29-Cu-nat",
+    "id_wims": 3063,
+    "id_self_defined": 29000,
+    "amu": "63.545600",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94dc"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 33,
+  "fields": {
+    "element": 40,
+    "nuclide_name": "40-Zr-nat",
+    "id_wims": 91,
+    "id_self_defined": 40000,
+    "amu": "91.219600",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u9506"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 34,
+  "fields": {
+    "element": 41,
+    "nuclide_name": "41-Nb-93",
+    "id_wims": 93,
+    "id_self_defined": 41093,
+    "amu": "92.903200",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u94cc-93"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 35,
+  "fields": {
+    "element": 42,
+    "nuclide_name": "42-Mo-nat",
+    "id_wims": 96,
+    "id_self_defined": 42000,
+    "amu": "95.940200",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94bc"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 36,
+  "fields": {
+    "element": 47,
+    "nuclide_name": "47-Ag-nat",
+    "id_wims": 3109,
+    "id_self_defined": 47000,
+    "amu": "107.868000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94f6"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 37,
+  "fields": {
+    "element": 48,
+    "nuclide_name": "48-Cd-nat",
+    "id_wims": 2113,
+    "id_self_defined": 48000,
+    "amu": "112.411000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u9549"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 38,
+  "fields": {
+    "element": 49,
+    "nuclide_name": "49-In-nat",
+    "id_wims": 2115,
+    "id_self_defined": 49000,
+    "amu": "114.820000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u94df"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 39,
+  "fields": {
+    "element": 50,
+    "nuclide_name": "50-Sn-nat",
+    "id_wims": 118,
+    "id_self_defined": 50000,
+    "amu": "117.241000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u9521"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 40,
+  "fields": {
+    "element": 51,
+    "nuclide_name": "51-Sb-121",
+    "id_wims": 121,
+    "id_self_defined": 51121,
+    "amu": "120.904000",
+    "nf": 1,
+    "material_type": "S",
+    "description": "\u9511-121"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 41,
+  "fields": {
+    "element": 51,
+    "nuclide_name": "51-Sb-123",
+    "id_wims": 123,
+    "id_self_defined": 51123,
+    "amu": "122.904000",
+    "nf": 1,
+    "material_type": "S",
+    "description": "\u9511-123"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 42,
+  "fields": {
+    "element": 63,
+    "nuclide_name": "63-Eu-nat",
+    "id_wims": 152,
+    "id_self_defined": 63000,
+    "amu": "151.965000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u94d5"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 43,
+  "fields": {
+    "element": 64,
+    "nuclide_name": "64-Gd-154",
+    "id_wims": 2154,
+    "id_self_defined": 64154,
+    "amu": "153.921000",
+    "nf": 1,
+    "material_type": "B/FP",
+    "description": "\u9486-154"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 44,
+  "fields": {
+    "element": 64,
+    "nuclide_name": "64-Gd-155",
+    "id_wims": 2155,
+    "id_self_defined": 64155,
+    "amu": "154.923000",
+    "nf": 1,
+    "material_type": "B/FP",
+    "description": "\u9486-155"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 45,
+  "fields": {
+    "element": 64,
+    "nuclide_name": "64-Gd-156",
+    "id_wims": 2156,
+    "id_self_defined": 64156,
+    "amu": "155.923000",
+    "nf": 1,
+    "material_type": "B/FP",
+    "description": "\u9486-156"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 46,
+  "fields": {
+    "element": 64,
+    "nuclide_name": "64-Gd-157",
+    "id_wims": 2157,
+    "id_self_defined": 64157,
+    "amu": "156.924000",
+    "nf": 1,
+    "material_type": "B/FP",
+    "description": "\u9486-157"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 47,
+  "fields": {
+    "element": 64,
+    "nuclide_name": "64-Gd-158",
+    "id_wims": 2158,
+    "id_self_defined": 64158,
+    "amu": "157.924000",
+    "nf": 1,
+    "material_type": "B/FP",
+    "description": "\u9486-158"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 48,
+  "fields": {
+    "element": 66,
+    "nuclide_name": "66-Dy-160",
+    "id_wims": 160,
+    "id_self_defined": 66160,
+    "amu": "159.925000",
+    "nf": 0,
+    "material_type": "B/FP",
+    "description": "\u955d-160"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 49,
+  "fields": {
+    "element": 66,
+    "nuclide_name": "66-Dy-161",
+    "id_wims": 161,
+    "id_self_defined": 66161,
+    "amu": "160.927000",
+    "nf": 0,
+    "material_type": "B/FP",
+    "description": "\u955d-161"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 50,
+  "fields": {
+    "element": 66,
+    "nuclide_name": "66-Dy-162",
+    "id_wims": 162,
+    "id_self_defined": 66162,
+    "amu": "161.927000",
+    "nf": 0,
+    "material_type": "B/FP",
+    "description": "\u955d-162"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 51,
+  "fields": {
+    "element": 66,
+    "nuclide_name": "66-Dy-163",
+    "id_wims": 163,
+    "id_self_defined": 66163,
+    "amu": "162.929000",
+    "nf": 0,
+    "material_type": "B/FP",
+    "description": "\u955d-163"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 52,
+  "fields": {
+    "element": 66,
+    "nuclide_name": "66-Dy-164",
+    "id_wims": 164,
+    "id_self_defined": 66164,
+    "amu": "163.928000",
+    "nf": 0,
+    "material_type": "B/FP",
+    "description": "\u955d-164"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 53,
+  "fields": {
+    "element": 67,
+    "nuclide_name": "67-Ho-165",
+    "id_wims": 165,
+    "id_self_defined": 67165,
+    "amu": "164.930000",
+    "nf": 0,
+    "material_type": "B/FP",
+    "description": "\u94ac-165"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 54,
+  "fields": {
+    "element": 68,
+    "nuclide_name": "68-Er-166",
+    "id_wims": 2166,
+    "id_self_defined": 68166,
+    "amu": "165.930000",
+    "nf": 1,
+    "material_type": "B",
+    "description": "\u94d2-166"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 55,
+  "fields": {
+    "element": 68,
+    "nuclide_name": "68-Er-167",
+    "id_wims": 2167,
+    "id_self_defined": 68167,
+    "amu": "166.932000",
+    "nf": 1,
+    "material_type": "B",
+    "description": "\u94d2-167"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 56,
+  "fields": {
+    "element": 72,
+    "nuclide_name": "72-Hf-176",
+    "id_wims": 2176,
+    "id_self_defined": 72176,
+    "amu": "175.941000",
+    "nf": 1,
+    "material_type": "B",
+    "description": "\u94ea-176"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 57,
+  "fields": {
+    "element": 72,
+    "nuclide_name": "72-Hf-177",
+    "id_wims": 2177,
+    "id_self_defined": 72177,
+    "amu": "176.943000",
+    "nf": 1,
+    "material_type": "B",
+    "description": "\u94ea-177"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 58,
+  "fields": {
+    "element": 72,
+    "nuclide_name": "72-Hf-178",
+    "id_wims": 2178,
+    "id_self_defined": 72178,
+    "amu": "177.944000",
+    "nf": 1,
+    "material_type": "B",
+    "description": "\u94ea-178"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 59,
+  "fields": {
+    "element": 72,
+    "nuclide_name": "72-Hf-179",
+    "id_wims": 2179,
+    "id_self_defined": 72179,
+    "amu": "178.946000",
+    "nf": 1,
+    "material_type": "B",
+    "description": "\u94ea-179"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 60,
+  "fields": {
+    "element": 72,
+    "nuclide_name": "72-Hf-180",
+    "id_wims": 2180,
+    "id_self_defined": 72180,
+    "amu": "179.947000",
+    "nf": 1,
+    "material_type": "B",
+    "description": "\u94ea-180"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 61,
+  "fields": {
+    "element": 72,
+    "nuclide_name": "72-Hf-nat",
+    "id_wims": 178,
+    "id_self_defined": 72000,
+    "amu": "178.487000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94ea"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 62,
+  "fields": {
+    "element": 73,
+    "nuclide_name": "73-Ta-nat",
+    "id_wims": 181,
+    "id_self_defined": 73000,
+    "amu": "180.955000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94bd"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 63,
+  "fields": {
+    "element": 74,
+    "nuclide_name": "74-Wnat",
+    "id_wims": 183,
+    "id_self_defined": 74000,
+    "amu": "183.856000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94a8"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 64,
+  "fields": {
+    "element": 82,
+    "nuclide_name": "82-Pb-nat",
+    "id_wims": 207,
+    "id_self_defined": 82000,
+    "amu": "207.262000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u5929\u7136\u94c5"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 65,
+  "fields": {
+    "element": 36,
+    "nuclide_name": "36-Kr-83",
+    "id_wims": 4083,
+    "id_self_defined": 36083,
+    "amu": "82.914100",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u6c2a-83"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 66,
+  "fields": {
+    "element": 42,
+    "nuclide_name": "42-Mo-95",
+    "id_wims": 4095,
+    "id_self_defined": 42095,
+    "amu": "94.905900",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94bc-95"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 67,
+  "fields": {
+    "element": 43,
+    "nuclide_name": "43-Tc- 99",
+    "id_wims": 4099,
+    "id_self_defined": 43099,
+    "amu": "99.000500",
+    "nf": 1,
+    "material_type": "FP",
+    "description": "\u951d-99"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 68,
+  "fields": {
+    "element": 44,
+    "nuclide_name": "44-Ru-101",
+    "id_wims": 4101,
+    "id_self_defined": 44101,
+    "amu": "100.906000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u948c-101"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 69,
+  "fields": {
+    "element": 44,
+    "nuclide_name": "44-Ru-103",
+    "id_wims": 5103,
+    "id_self_defined": 44103,
+    "amu": "102.906000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u948c-103"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 70,
+  "fields": {
+    "element": 44,
+    "nuclide_name": "44-Ru-106",
+    "id_wims": 4106,
+    "id_self_defined": 44106,
+    "amu": "105.908000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u948c-106"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 71,
+  "fields": {
+    "element": 45,
+    "nuclide_name": "45-Rh-103",
+    "id_wims": 4103,
+    "id_self_defined": 45103,
+    "amu": "102.905000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94d1-103"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 72,
+  "fields": {
+    "element": 45,
+    "nuclide_name": "45-Rh-105",
+    "id_wims": 4105,
+    "id_self_defined": 45105,
+    "amu": "104.906000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94d1-105"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 73,
+  "fields": {
+    "element": 46,
+    "nuclide_name": "46-Pd-105",
+    "id_wims": 5105,
+    "id_self_defined": 46105,
+    "amu": "104.905000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94af-105"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 74,
+  "fields": {
+    "element": 46,
+    "nuclide_name": "46-Pd-107",
+    "id_wims": 4107,
+    "id_self_defined": 46107,
+    "amu": "106.905000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94af-107"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 75,
+  "fields": {
+    "element": 46,
+    "nuclide_name": "46-Pd-108",
+    "id_wims": 4108,
+    "id_self_defined": 46108,
+    "amu": "107.904000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94af-108"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 76,
+  "fields": {
+    "element": 47,
+    "nuclide_name": "47-Ag-109",
+    "id_wims": 4109,
+    "id_self_defined": 47109,
+    "amu": "108.905000",
+    "nf": 1,
+    "material_type": "FP",
+    "description": "\u94f6-109"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 77,
+  "fields": {
+    "element": 48,
+    "nuclide_name": "48-Cd-113",
+    "id_wims": 4113,
+    "id_self_defined": 48113,
+    "amu": "112.900000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9549-113"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 78,
+  "fields": {
+    "element": 49,
+    "nuclide_name": "49-In-115",
+    "id_wims": 4115,
+    "id_self_defined": 49115,
+    "amu": "114.820000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94df-115"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 79,
+  "fields": {
+    "element": 51,
+    "nuclide_name": "51-Sb-125",
+    "id_wims": 4125,
+    "id_self_defined": 51125,
+    "amu": "124.905000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9511-125"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 80,
+  "fields": {
+    "element": 52,
+    "nuclide_name": "52-Te-127m",
+    "id_wims": 5127,
+    "id_self_defined": 52927,
+    "amu": "126.905000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u78b2-127m"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 81,
+  "fields": {
+    "element": 53,
+    "nuclide_name": "53-I 127",
+    "id_wims": 4127,
+    "id_self_defined": 53127,
+    "amu": "126.905000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u7898-127"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 82,
+  "fields": {
+    "element": 54,
+    "nuclide_name": "54-Xe-131",
+    "id_wims": 4131,
+    "id_self_defined": 54131,
+    "amu": "130.906000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u6c19-131"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 83,
+  "fields": {
+    "element": 55,
+    "nuclide_name": "55-Cs-133",
+    "id_wims": 4133,
+    "id_self_defined": 55133,
+    "amu": "132.906000",
+    "nf": 1,
+    "material_type": "FP",
+    "description": "\u94ef-133"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 84,
+  "fields": {
+    "element": 55,
+    "nuclide_name": "55-Cs-134",
+    "id_wims": 4134,
+    "id_self_defined": 55134,
+    "amu": "133.907000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94ef-134"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 85,
+  "fields": {
+    "element": 55,
+    "nuclide_name": "55-Cs-137",
+    "id_wims": 4137,
+    "id_self_defined": 55137,
+    "amu": "136.907000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94ef-137"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 86,
+  "fields": {
+    "element": 53,
+    "nuclide_name": "53-I 135",
+    "id_wims": 6135,
+    "id_self_defined": 53135,
+    "amu": "134.910000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u7898135"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 87,
+  "fields": {
+    "element": 54,
+    "nuclide_name": "54-Xe-134",
+    "id_wims": 5134,
+    "id_self_defined": 54134,
+    "amu": "133.905000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u6c19-134"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 88,
+  "fields": {
+    "element": 54,
+    "nuclide_name": "54-Xe-135",
+    "id_wims": 4135,
+    "id_self_defined": 54135,
+    "amu": "134.907000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u6c19135"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 89,
+  "fields": {
+    "element": 55,
+    "nuclide_name": "55-Cs-135",
+    "id_wims": 5135,
+    "id_self_defined": 55135,
+    "amu": "134.906000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94ef-135"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 90,
+  "fields": {
+    "element": 54,
+    "nuclide_name": "54-Xe-136",
+    "id_wims": 4136,
+    "id_self_defined": 54136,
+    "amu": "135.908000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u6c19-136"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 91,
+  "fields": {
+    "element": 60,
+    "nuclide_name": "60-Nd-143",
+    "id_wims": 4143,
+    "id_self_defined": 60143,
+    "amu": "142.910000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9495-143"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 92,
+  "fields": {
+    "element": 60,
+    "nuclide_name": "60-Nd-145",
+    "id_wims": 4145,
+    "id_self_defined": 60145,
+    "amu": "144.913000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9495-145"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 93,
+  "fields": {
+    "element": 61,
+    "nuclide_name": "61-Pm-147",
+    "id_wims": 4147,
+    "id_self_defined": 61147,
+    "amu": "146.915000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94b7-147"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 94,
+  "fields": {
+    "element": 61,
+    "nuclide_name": "61-Pm-147",
+    "id_wims": 5147,
+    "id_self_defined": 61947,
+    "amu": "146.915000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94b7-147"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 95,
+  "fields": {
+    "element": 62,
+    "nuclide_name": "62-Sm-147",
+    "id_wims": 6147,
+    "id_self_defined": 62147,
+    "amu": "146.915000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9490-147"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 96,
+  "fields": {
+    "element": 61,
+    "nuclide_name": "61-Pm-148m",
+    "id_wims": 4148,
+    "id_self_defined": 61948,
+    "amu": "147.918000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94b7-148m"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 97,
+  "fields": {
+    "element": 61,
+    "nuclide_name": "61-Pm-148",
+    "id_wims": 5148,
+    "id_self_defined": 61148,
+    "amu": "147.918000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94b7-148"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 98,
+  "fields": {
+    "element": 62,
+    "nuclide_name": "62-Sm-148",
+    "id_wims": 6148,
+    "id_self_defined": 62148,
+    "amu": "147.915000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9490-148"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 99,
+  "fields": {
+    "element": 61,
+    "nuclide_name": "61-Pm-149",
+    "id_wims": 5149,
+    "id_self_defined": 61149,
+    "amu": "148.918000",
+    "nf": 0,
+    "material_type": "FP ",
+    "description": "\u94b7-149"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 100,
+  "fields": {
+    "element": 62,
+    "nuclide_name": "62-Sm-149",
+    "id_wims": 4149,
+    "id_self_defined": 62149,
+    "amu": "148.917000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9490-149"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 101,
+  "fields": {
+    "element": 62,
+    "nuclide_name": "62-Sm-150",
+    "id_wims": 4150,
+    "id_self_defined": 62150,
+    "amu": "149.917000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9490-150"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 102,
+  "fields": {
+    "element": 62,
+    "nuclide_name": "62-Sm-151",
+    "id_wims": 4151,
+    "id_self_defined": 62151,
+    "amu": "150.920000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9490-151"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 103,
+  "fields": {
+    "element": 62,
+    "nuclide_name": "62-Sm-152",
+    "id_wims": 4152,
+    "id_self_defined": 62152,
+    "amu": "151.920000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9490-152"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 104,
+  "fields": {
+    "element": 63,
+    "nuclide_name": "63-Eu-151",
+    "id_wims": 5151,
+    "id_self_defined": 63151,
+    "amu": "150.920000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94d5-151"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 105,
+  "fields": {
+    "element": 63,
+    "nuclide_name": "63-Eu-152",
+    "id_wims": 5152,
+    "id_self_defined": 63152,
+    "amu": "151.925000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94d5-152"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 106,
+  "fields": {
+    "element": 63,
+    "nuclide_name": "63-Eu-153",
+    "id_wims": 4153,
+    "id_self_defined": 63153,
+    "amu": "152.922000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94d5-153"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 107,
+  "fields": {
+    "element": 63,
+    "nuclide_name": "63-Eu-154",
+    "id_wims": 4154,
+    "id_self_defined": 63154,
+    "amu": "153.922000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94d5-154"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 108,
+  "fields": {
+    "element": 63,
+    "nuclide_name": "63-Eu-155",
+    "id_wims": 4155,
+    "id_self_defined": 63155,
+    "amu": "154.923000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u94d5-155"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 109,
+  "fields": {
+    "element": null,
+    "nuclide_name": "FP4902",
+    "id_wims": 4902,
+    "id_self_defined": 4902,
+    "amu": "114.675000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u5047\u60f3\u88c2\u53d8\u4ea7\u7269"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 110,
+  "fields": {
+    "element": 90,
+    "nuclide_name": "90-Th-232",
+    "id_wims": 2232,
+    "id_self_defined": 90232,
+    "amu": "232.033000",
+    "nf": 2,
+    "material_type": "A",
+    "description": "Thorium-232"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 111,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U232",
+    "id_wims": 4232,
+    "id_self_defined": 4232,
+    "amu": "232.033000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u4f2a\u88c2\u53d8\u4ea7\u7269"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 112,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 232",
+    "id_wims": 232,
+    "id_self_defined": 92232,
+    "amu": "232.033000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "U-232"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 113,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 233",
+    "id_wims": 9233,
+    "id_self_defined": 92233,
+    "amu": "233.045000",
+    "nf": 3,
+    "material_type": "A",
+    "description": "U-233"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 114,
+  "fields": {
+    "element": 91,
+    "nuclide_name": "91-Pa-231",
+    "id_wims": 1231,
+    "id_self_defined": 91231,
+    "amu": "231.035000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u9564-231"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 115,
+  "fields": {
+    "element": 91,
+    "nuclide_name": "91-Pa-233",
+    "id_wims": 1233,
+    "id_self_defined": 91233,
+    "amu": "233.040000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "\u9564-233"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 116,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 234",
+    "id_wims": 234,
+    "id_self_defined": 92234,
+    "amu": "234.041000",
+    "nf": 2,
+    "material_type": "A",
+    "description": "U-234"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 117,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 235",
+    "id_wims": 2235,
+    "id_self_defined": 92235,
+    "amu": "235.044000",
+    "nf": 3,
+    "material_type": "A",
+    "description": "U-235"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 118,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 236",
+    "id_wims": 236,
+    "id_self_defined": 92236,
+    "amu": "236.046000",
+    "nf": 2,
+    "material_type": "A",
+    "description": "U-236"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 119,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 237",
+    "id_wims": 4927,
+    "id_self_defined": 4927,
+    "amu": "237.049000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "\u4f2a\u88c2\u53d8\u4ea7\u7269"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 120,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 237",
+    "id_wims": 927,
+    "id_self_defined": 92237,
+    "amu": "237.048000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "U-237"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 121,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 238",
+    "id_wims": 8238,
+    "id_self_defined": 92238,
+    "amu": "238.051000",
+    "nf": 2,
+    "material_type": "A",
+    "description": "U-238"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 122,
+  "fields": {
+    "element": 93,
+    "nuclide_name": "93-Np-237",
+    "id_wims": 937,
+    "id_self_defined": 93237,
+    "amu": "237.048000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "Np-237"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 123,
+  "fields": {
+    "element": 93,
+    "nuclide_name": "93-Np-239",
+    "id_wims": 1939,
+    "id_self_defined": 93239,
+    "amu": "239.053000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "Np-239"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 124,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-238",
+    "id_wims": 948,
+    "id_self_defined": 94238,
+    "amu": "238.050000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "Pu-238"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 125,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-239",
+    "id_wims": 6239,
+    "id_self_defined": 94239,
+    "amu": "239.052000",
+    "nf": 3,
+    "material_type": "A",
+    "description": "Pu-239"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 126,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-240",
+    "id_wims": 1240,
+    "id_self_defined": 94240,
+    "amu": "240.054000",
+    "nf": 2,
+    "material_type": "A",
+    "description": "Pu-240"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 127,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-241",
+    "id_wims": 1241,
+    "id_self_defined": 94241,
+    "amu": "241.049000",
+    "nf": 3,
+    "material_type": "A",
+    "description": "Pu-241"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 128,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-242",
+    "id_wims": 242,
+    "id_self_defined": 242,
+    "amu": "242.058000",
+    "nf": 2,
+    "material_type": "A",
+    "description": "Pu-242"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 129,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-242",
+    "id_wims": 1242,
+    "id_self_defined": 94242,
+    "amu": "242.058000",
+    "nf": 2,
+    "material_type": "A",
+    "description": "Pu-242"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 130,
+  "fields": {
+    "element": 95,
+    "nuclide_name": "95-Am-241",
+    "id_wims": 951,
+    "id_self_defined": 95241,
+    "amu": "241.057000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "Am-241"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 131,
+  "fields": {
+    "element": 95,
+    "nuclide_name": "95-Am-242",
+    "id_wims": 1952,
+    "id_self_defined": 95242,
+    "amu": "242.059000",
+    "nf": 0,
+    "material_type": "FP",
+    "description": "Am-242"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 132,
+  "fields": {
+    "element": 95,
+    "nuclide_name": "95-Am242m",
+    "id_wims": 952,
+    "id_self_defined": 95942,
+    "amu": "242.059000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "Am-242m"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 133,
+  "fields": {
+    "element": 95,
+    "nuclide_name": "95-Am-243",
+    "id_wims": 953,
+    "id_self_defined": 95243,
+    "amu": "243.061000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "Am-243"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 134,
+  "fields": {
+    "element": 96,
+    "nuclide_name": "96-Cm-242",
+    "id_wims": 962,
+    "id_self_defined": 96242,
+    "amu": "242.058000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "Cm-242"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 135,
+  "fields": {
+    "element": 96,
+    "nuclide_name": "96-Cm-243",
+    "id_wims": 963,
+    "id_self_defined": 96243,
+    "amu": "243.061000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "Cm-243"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 136,
+  "fields": {
+    "element": 96,
+    "nuclide_name": "96-Cm-244",
+    "id_wims": 964,
+    "id_self_defined": 96244,
+    "amu": "244.063000",
+    "nf": 4,
+    "material_type": "A",
+    "description": "Cm-244"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 137,
+  "fields": {
+    "element": null,
+    "nuclide_name": "1/v",
+    "id_wims": 1000,
+    "id_self_defined": null,
+    "amu": "1.000000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "1/v \u5438\u6536\u4f53"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 138,
+  "fields": {
+    "element": null,
+    "nuclide_name": "res.1/v",
+    "id_wims": 1999,
+    "id_self_defined": null,
+    "amu": "1.000000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "1/v \u5438\u6536\u4f53\u7684\u5171\u632f\u90e8\u5206"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 139,
+  "fields": {
+    "element": null,
+    "nuclide_name": "-1/v",
+    "id_wims": 2000,
+    "id_self_defined": null,
+    "amu": "1.000000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "-1/v\u5438\u6536\u4f53"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 140,
+  "fields": {
+    "element": null,
+    "nuclide_name": "abs.=1",
+    "id_wims": 3000,
+    "id_self_defined": null,
+    "amu": "1.000000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "\u7eaf\u5438\u6536\u4f53"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 141,
+  "fields": {
+    "element": null,
+    "nuclide_name": "U",
+    "id_wims": 4000,
+    "id_self_defined": null,
+    "amu": "1.000000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Inverse lethargy"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 142,
+  "fields": {
+    "element": 6,
+    "nuclide_name": "C-dam",
+    "id_wims": 2212,
+    "id_self_defined": null,
+    "amu": "12.001100",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Graphite damage"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 143,
+  "fields": {
+    "element": 40,
+    "nuclide_name": "Zr-dam",
+    "id_wims": 1091,
+    "id_self_defined": null,
+    "amu": "91.219600",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Zr damage"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 144,
+  "fields": {
+    "element": 25,
+    "nuclide_name": "25-Mn-55",
+    "id_wims": 1055,
+    "id_self_defined": null,
+    "amu": "54.938000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Mn-55(n,g)Mn-56"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 145,
+  "fields": {
+    "element": 26,
+    "nuclide_name": "26-Fe-54",
+    "id_wims": 1054,
+    "id_self_defined": null,
+    "amu": "53.939600",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Fe-54(n,p)Mn-54"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 146,
+  "fields": {
+    "element": 26,
+    "nuclide_name": "26-Fe-58",
+    "id_wims": 3058,
+    "id_self_defined": null,
+    "amu": "57.933300",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Fe-58(n,gamma)Fe-59"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 147,
+  "fields": {
+    "element": 27,
+    "nuclide_name": "27-Co-59",
+    "id_wims": 2059,
+    "id_self_defined": null,
+    "amu": "58.933200",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Co-59(n,gamma)Co-60"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 148,
+  "fields": {
+    "element": 28,
+    "nuclide_name": "28-Ni-58",
+    "id_wims": 1058,
+    "id_self_defined": null,
+    "amu": "57.935400",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Ni-58(n,p)Co-58"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 149,
+  "fields": {
+    "element": 29,
+    "nuclide_name": "29-Cu-63",
+    "id_wims": 1063,
+    "id_self_defined": null,
+    "amu": "62.929600",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Cu-63(n,gamma)Cu-64"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 150,
+  "fields": {
+    "element": 36,
+    "nuclide_name": "36-Kr-84",
+    "id_wims": 84,
+    "id_self_defined": null,
+    "amu": "83.911400",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Kr-84(n,gamma)Kr-85"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 151,
+  "fields": {
+    "element": 45,
+    "nuclide_name": "45-Rh-103",
+    "id_wims": 2103,
+    "id_self_defined": null,
+    "amu": "102.904000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Rh-103(n,n')Rh-103m"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 152,
+  "fields": {
+    "element": 49,
+    "nuclide_name": "49-In-115",
+    "id_wims": 1115,
+    "id_self_defined": null,
+    "amu": "114.904000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "In-115(n,n')In-115m"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 153,
+  "fields": {
+    "element": 49,
+    "nuclide_name": "49-In-115",
+    "id_wims": 3115,
+    "id_self_defined": null,
+    "amu": "114.904000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "In-115(n,gamma)In-116m"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 154,
+  "fields": {
+    "element": 63,
+    "nuclide_name": "63-Eu-151",
+    "id_wims": 1151,
+    "id_self_defined": null,
+    "amu": "150.920000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Eu-151(n,g)Eu-152"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 155,
+  "fields": {
+    "element": 66,
+    "nuclide_name": "66-Dy-164",
+    "id_wims": 1164,
+    "id_self_defined": null,
+    "amu": "163.928000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Dy-164(n,g)Dy-165"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 156,
+  "fields": {
+    "element": 71,
+    "nuclide_name": "71-Lu-176",
+    "id_wims": 176,
+    "id_self_defined": null,
+    "amu": "175.941000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Lu-176(n,g)Lu-177"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 157,
+  "fields": {
+    "element": 79,
+    "nuclide_name": "79-Au-197",
+    "id_wims": 197,
+    "id_self_defined": null,
+    "amu": "196.967000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Au-197(n,g)Au-198"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 158,
+  "fields": {
+    "element": 90,
+    "nuclide_name": "90-Th-232",
+    "id_wims": 1232,
+    "id_self_defined": null,
+    "amu": "232.038000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Th-232(n,g)Th-233"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 159,
+  "fields": {
+    "element": 90,
+    "nuclide_name": "90-Th-232",
+    "id_wims": 3232,
+    "id_self_defined": null,
+    "amu": "232.038000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Th-232(n,f)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 160,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U -235",
+    "id_wims": 1235,
+    "id_self_defined": null,
+    "amu": "235.044000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "U-235(n,g)U-236"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 161,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U -235",
+    "id_wims": 1003,
+    "id_self_defined": null,
+    "amu": "235.044000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "U-235(n,f)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 162,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U -238",
+    "id_wims": 1238,
+    "id_self_defined": null,
+    "amu": "238.051000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "U-238(n,g)U-239"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 163,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U -238",
+    "id_wims": 3238,
+    "id_self_defined": null,
+    "amu": "238.051000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "U-238(n,f)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 164,
+  "fields": {
+    "element": 93,
+    "nuclide_name": "93-Np-237",
+    "id_wims": 1237,
+    "id_self_defined": null,
+    "amu": "237.048000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Np-237(n,f)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 165,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-239",
+    "id_wims": 1239,
+    "id_self_defined": null,
+    "amu": "239.053000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Pu-239(n,f)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 166,
+  "fields": {
+    "element": 90,
+    "nuclide_name": "90-Th-232",
+    "id_wims": 1632,
+    "id_self_defined": null,
+    "amu": "232.033000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Th-232(n,2n)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 167,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 233",
+    "id_wims": 1633,
+    "id_self_defined": null,
+    "amu": "233.045000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "U-233(n,2n)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 168,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 235",
+    "id_wims": 1635,
+    "id_self_defined": null,
+    "amu": "235.044000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "U-235(n,2n)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 169,
+  "fields": {
+    "element": 92,
+    "nuclide_name": "92-U 238",
+    "id_wims": 1638,
+    "id_self_defined": null,
+    "amu": "238.051000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "U-238(n,2n)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 170,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-239",
+    "id_wims": 1639,
+    "id_self_defined": null,
+    "amu": "239.052000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Pu-239(n,2n)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 171,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-240",
+    "id_wims": 1640,
+    "id_self_defined": null,
+    "amu": "240.054000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Pu-240(n,2n)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 172,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-241",
+    "id_wims": 1641,
+    "id_self_defined": null,
+    "amu": "241.049000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Pu-241(n,2n)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 173,
+  "fields": {
+    "element": 94,
+    "nuclide_name": "94-Pu-242",
+    "id_wims": 1642,
+    "id_self_defined": null,
+    "amu": "242.058000",
+    "nf": 0,
+    "material_type": "D",
+    "description": "Pu-242(n,2n)"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 174,
+  "fields": {
+    "element": 1,
+    "nuclide_name": "H-3",
+    "id_wims": 3003,
+    "id_self_defined": 1003,
+    "amu": "3.015500",
+    "nf": 0,
+    "material_type": "B",
+    "description": "\u6c1a"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 175,
+  "fields": {
+    "element": 64,
+    "nuclide_name": "Gd-152",
+    "id_wims": 0,
+    "id_self_defined": 64152,
+    "amu": "151.919800",
+    "nf": 0,
+    "material_type": "S",
+    "description": "\u9486"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 176,
+  "fields": {
+    "element": 64,
+    "nuclide_name": "Gd-160",
+    "id_wims": null,
+    "id_self_defined": 64160,
+    "amu": "159.927060",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Gd-160"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 177,
+  "fields": {
+    "element": 68,
+    "nuclide_name": "Er-162",
+    "id_wims": null,
+    "id_self_defined": 68162,
+    "amu": "161.928800",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Er-162"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 178,
+  "fields": {
+    "element": 68,
+    "nuclide_name": "Er-164",
+    "id_wims": null,
+    "id_self_defined": 68164,
+    "amu": "163.929200",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Er-164 "
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 179,
+  "fields": {
+    "element": 68,
+    "nuclide_name": "Er-168",
+    "id_wims": null,
+    "id_self_defined": 68168,
+    "amu": "167.932380",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Er-168"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 180,
+  "fields": {
+    "element": 68,
+    "nuclide_name": "Er-170",
+    "id_wims": null,
+    "id_self_defined": 68170,
+    "amu": "169.935480",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Er-170"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 181,
+  "fields": {
+    "element": 72,
+    "nuclide_name": "Hf-174",
+    "id_wims": null,
+    "id_self_defined": 72174,
+    "amu": "173.941000",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Hf-174"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 182,
+  "fields": {
+    "element": 74,
+    "nuclide_name": "W-182",
+    "id_wims": 4182,
+    "id_self_defined": 74182,
+    "amu": "181.948019",
+    "nf": 0,
+    "material_type": "S",
+    "description": "W-182"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 183,
+  "fields": {
+    "element": 74,
+    "nuclide_name": "W-183",
+    "id_wims": 4183,
+    "id_self_defined": 74183,
+    "amu": "182.950632",
+    "nf": 0,
+    "material_type": "S",
+    "description": "W-183"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 184,
+  "fields": {
+    "element": 74,
+    "nuclide_name": "W-184",
+    "id_wims": 4184,
+    "id_self_defined": 74184,
+    "amu": "183.951227",
+    "nf": 0,
+    "material_type": "S",
+    "description": "W-184"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 185,
+  "fields": {
+    "element": 74,
+    "nuclide_name": "W-186",
+    "id_wims": 4186,
+    "id_self_defined": 74186,
+    "amu": "185.954436",
+    "nf": 0,
+    "material_type": "S",
+    "description": "W-186"
+  }
+},
+{
+  "model": "nymph.wimsnuclide",
+  "pk": 186,
+  "fields": {
+    "element": 75,
+    "nuclide_name": "Re-187",
+    "id_wims": 5187,
+    "id_self_defined": 75187,
+    "amu": "186.955737",
+    "nf": 0,
+    "material_type": "S",
+    "description": "Re-187"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 1,
+  "fields": {
+    "name": "H-H2O"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 2,
+  "fields": {
+    "name": "H-ZrH"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 3,
+  "fields": {
+    "name": "D-D2O"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 4,
+  "fields": {
+    "name": "He-3"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 5,
+  "fields": {
+    "name": "He-4"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 6,
+  "fields": {
+    "name": "Li-6"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 7,
+  "fields": {
+    "name": "Li-7"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 8,
+  "fields": {
+    "name": "Be-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 9,
+  "fields": {
+    "name": "B-10b"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 10,
+  "fields": {
+    "name": "B-10"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 11,
+  "fields": {
+    "name": "B-11b"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 12,
+  "fields": {
+    "name": "B-nat-s"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 13,
+  "fields": {
+    "name": "C-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 14,
+  "fields": {
+    "name": "N-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 15,
+  "fields": {
+    "name": "O-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 16,
+  "fields": {
+    "name": "F-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 17,
+  "fields": {
+    "name": "Na-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 18,
+  "fields": {
+    "name": "Mg-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 19,
+  "fields": {
+    "name": "Al-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 20,
+  "fields": {
+    "name": "Si-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 21,
+  "fields": {
+    "name": "P-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 22,
+  "fields": {
+    "name": "S-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 23,
+  "fields": {
+    "name": "Cl-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 24,
+  "fields": {
+    "name": "Ca-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 25,
+  "fields": {
+    "name": "Ti-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 26,
+  "fields": {
+    "name": "V-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 27,
+  "fields": {
+    "name": "Cr-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 28,
+  "fields": {
+    "name": "Mn-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 29,
+  "fields": {
+    "name": "Fe-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 30,
+  "fields": {
+    "name": "Ni-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 31,
+  "fields": {
+    "name": "Co-59"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 32,
+  "fields": {
+    "name": "Cu-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 33,
+  "fields": {
+    "name": "Zr-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 34,
+  "fields": {
+    "name": "Nb-93"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 35,
+  "fields": {
+    "name": "Mo-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 36,
+  "fields": {
+    "name": "Ag-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 37,
+  "fields": {
+    "name": "Cd-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 38,
+  "fields": {
+    "name": "In-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 39,
+  "fields": {
+    "name": "Sn-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 40,
+  "fields": {
+    "name": "Sb-121"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 41,
+  "fields": {
+    "name": "Sb-123"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 42,
+  "fields": {
+    "name": "Eu-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 43,
+  "fields": {
+    "name": "Gd-152"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 44,
+  "fields": {
+    "name": "Gd-154"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 45,
+  "fields": {
+    "name": "Gd-155"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 46,
+  "fields": {
+    "name": "Gd-156"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 47,
+  "fields": {
+    "name": "Gd-157"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 48,
+  "fields": {
+    "name": "Gd-158"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 49,
+  "fields": {
+    "name": "Gd-160"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 50,
+  "fields": {
+    "name": "Dy-160"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 51,
+  "fields": {
+    "name": "Dy-161"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 52,
+  "fields": {
+    "name": "Dy-162"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 53,
+  "fields": {
+    "name": "Dy-163"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 54,
+  "fields": {
+    "name": "Dy-164"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 55,
+  "fields": {
+    "name": "Ho-165"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 56,
+  "fields": {
+    "name": "Er-162"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 57,
+  "fields": {
+    "name": "Er-164"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 58,
+  "fields": {
+    "name": "Er-166"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 59,
+  "fields": {
+    "name": "Er-167"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 60,
+  "fields": {
+    "name": "Er-168"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 61,
+  "fields": {
+    "name": "Er-170"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 62,
+  "fields": {
+    "name": "Hf-174"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 63,
+  "fields": {
+    "name": "Hf-177"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 64,
+  "fields": {
+    "name": "Hf-178"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 65,
+  "fields": {
+    "name": "Hf-179"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 66,
+  "fields": {
+    "name": "Hf-180"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 67,
+  "fields": {
+    "name": "Hf-nat-s"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 68,
+  "fields": {
+    "name": "Ta-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 69,
+  "fields": {
+    "name": "W-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 70,
+  "fields": {
+    "name": "W-182"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 71,
+  "fields": {
+    "name": "W-183"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 72,
+  "fields": {
+    "name": "W-184"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 73,
+  "fields": {
+    "name": "W-186"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 74,
+  "fields": {
+    "name": "Re-187"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 75,
+  "fields": {
+    "name": "Pb-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 76,
+  "fields": {
+    "name": "Kr-83"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 77,
+  "fields": {
+    "name": "Mo-95"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 78,
+  "fields": {
+    "name": "Tc-99"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 79,
+  "fields": {
+    "name": "Ru-101"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 80,
+  "fields": {
+    "name": "Ru-103"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 81,
+  "fields": {
+    "name": "Ru-106"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 82,
+  "fields": {
+    "name": "Rh-103"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 83,
+  "fields": {
+    "name": "Rh-105"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 84,
+  "fields": {
+    "name": "Pd-105"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 85,
+  "fields": {
+    "name": "Pd-107"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 86,
+  "fields": {
+    "name": "Pd-108"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 87,
+  "fields": {
+    "name": "Ag-109"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 88,
+  "fields": {
+    "name": "Cd-113"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 89,
+  "fields": {
+    "name": "In-115"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 90,
+  "fields": {
+    "name": "Sb-125"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 91,
+  "fields": {
+    "name": "Te-127m"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 92,
+  "fields": {
+    "name": "I-127"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 93,
+  "fields": {
+    "name": "Xe-131"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 94,
+  "fields": {
+    "name": "Cs-133"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 95,
+  "fields": {
+    "name": "Cs-134"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 96,
+  "fields": {
+    "name": "Cs-137"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 97,
+  "fields": {
+    "name": "I-135"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 98,
+  "fields": {
+    "name": "Xe-134"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 99,
+  "fields": {
+    "name": "Xe-135"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 100,
+  "fields": {
+    "name": "Cs-135"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 101,
+  "fields": {
+    "name": "Xe-136"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 102,
+  "fields": {
+    "name": "Nd-143"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 103,
+  "fields": {
+    "name": "Nd-145"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 104,
+  "fields": {
+    "name": "Pm-147a"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 105,
+  "fields": {
+    "name": "Pm-147b"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 106,
+  "fields": {
+    "name": "Sm-147"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 107,
+  "fields": {
+    "name": "Pm-148m"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 108,
+  "fields": {
+    "name": "Pm-148"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 109,
+  "fields": {
+    "name": "Sm-148"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 110,
+  "fields": {
+    "name": "Pm-149"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 111,
+  "fields": {
+    "name": "Sm-149"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 112,
+  "fields": {
+    "name": "Sm-150"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 113,
+  "fields": {
+    "name": "Sm-151"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 114,
+  "fields": {
+    "name": "Sm-152"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 115,
+  "fields": {
+    "name": "Eu-151"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 116,
+  "fields": {
+    "name": "Eu-152"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 117,
+  "fields": {
+    "name": "Eu-153"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 118,
+  "fields": {
+    "name": "Eu-154"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 119,
+  "fields": {
+    "name": "Eu-155"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 120,
+  "fields": {
+    "name": "FP4902"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 121,
+  "fields": {
+    "name": "Th-232"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 122,
+  "fields": {
+    "name": "U-232f"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 123,
+  "fields": {
+    "name": "U-232"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 124,
+  "fields": {
+    "name": "U-233"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 125,
+  "fields": {
+    "name": "Pa-231"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 126,
+  "fields": {
+    "name": "Pa-233"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 127,
+  "fields": {
+    "name": "U-234"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 128,
+  "fields": {
+    "name": "U-235"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 129,
+  "fields": {
+    "name": "U-236"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 130,
+  "fields": {
+    "name": "U-237f"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 131,
+  "fields": {
+    "name": "U-237"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 132,
+  "fields": {
+    "name": "U-238"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 133,
+  "fields": {
+    "name": "Np-237"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 134,
+  "fields": {
+    "name": "Np-239"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 135,
+  "fields": {
+    "name": "Pu-238"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 136,
+  "fields": {
+    "name": "Pu-239"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 137,
+  "fields": {
+    "name": "Pu-240"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 138,
+  "fields": {
+    "name": "Pu-241"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 139,
+  "fields": {
+    "name": "Pu-242h"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 140,
+  "fields": {
+    "name": "Pu-242l"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 141,
+  "fields": {
+    "name": "Am-241"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 142,
+  "fields": {
+    "name": "Am-242"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 143,
+  "fields": {
+    "name": "Am-242m"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 144,
+  "fields": {
+    "name": "Am-243"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 145,
+  "fields": {
+    "name": "Cm-242"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 146,
+  "fields": {
+    "name": "Cm-243"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 147,
+  "fields": {
+    "name": "Cm-244"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 148,
+  "fields": {
+    "name": "B-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 149,
+  "fields": {
+    "name": "Gd-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 150,
+  "fields": {
+    "name": "Er-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 151,
+  "fields": {
+    "name": "Hf-nat"
+  }
+},
+{
+  "model": "nymph.wmiselement",
+  "pk": 152,
+  "fields": {
+    "name": "U-nat"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 1,
+  "fields": {
+    "wmis_element": 1,
+    "wmis_nuclide": 1,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 2,
+  "fields": {
+    "wmis_element": 2,
+    "wmis_nuclide": 2,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 3,
+  "fields": {
+    "wmis_element": 3,
+    "wmis_nuclide": 3,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 4,
+  "fields": {
+    "wmis_element": 4,
+    "wmis_nuclide": 4,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 5,
+  "fields": {
+    "wmis_element": 5,
+    "wmis_nuclide": 5,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 6,
+  "fields": {
+    "wmis_element": 6,
+    "wmis_nuclide": 6,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 7,
+  "fields": {
+    "wmis_element": 7,
+    "wmis_nuclide": 7,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 8,
+  "fields": {
+    "wmis_element": 8,
+    "wmis_nuclide": 8,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 9,
+  "fields": {
+    "wmis_element": 9,
+    "wmis_nuclide": 9,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 10,
+  "fields": {
+    "wmis_element": 10,
+    "wmis_nuclide": 10,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 11,
+  "fields": {
+    "wmis_element": 11,
+    "wmis_nuclide": 11,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 12,
+  "fields": {
+    "wmis_element": 12,
+    "wmis_nuclide": 12,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 13,
+  "fields": {
+    "wmis_element": 13,
+    "wmis_nuclide": 13,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 14,
+  "fields": {
+    "wmis_element": 14,
+    "wmis_nuclide": 14,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 15,
+  "fields": {
+    "wmis_element": 15,
+    "wmis_nuclide": 15,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 16,
+  "fields": {
+    "wmis_element": 16,
+    "wmis_nuclide": 16,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 17,
+  "fields": {
+    "wmis_element": 17,
+    "wmis_nuclide": 17,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 18,
+  "fields": {
+    "wmis_element": 18,
+    "wmis_nuclide": 18,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 19,
+  "fields": {
+    "wmis_element": 19,
+    "wmis_nuclide": 19,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 20,
+  "fields": {
+    "wmis_element": 20,
+    "wmis_nuclide": 20,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 21,
+  "fields": {
+    "wmis_element": 21,
+    "wmis_nuclide": 21,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 22,
+  "fields": {
+    "wmis_element": 22,
+    "wmis_nuclide": 22,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 23,
+  "fields": {
+    "wmis_element": 23,
+    "wmis_nuclide": 23,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 24,
+  "fields": {
+    "wmis_element": 24,
+    "wmis_nuclide": 24,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 25,
+  "fields": {
+    "wmis_element": 25,
+    "wmis_nuclide": 25,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 26,
+  "fields": {
+    "wmis_element": 26,
+    "wmis_nuclide": 26,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 27,
+  "fields": {
+    "wmis_element": 27,
+    "wmis_nuclide": 27,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 28,
+  "fields": {
+    "wmis_element": 28,
+    "wmis_nuclide": 28,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 29,
+  "fields": {
+    "wmis_element": 29,
+    "wmis_nuclide": 29,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 30,
+  "fields": {
+    "wmis_element": 30,
+    "wmis_nuclide": 30,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 31,
+  "fields": {
+    "wmis_element": 31,
+    "wmis_nuclide": 31,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 32,
+  "fields": {
+    "wmis_element": 32,
+    "wmis_nuclide": 32,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 33,
+  "fields": {
+    "wmis_element": 33,
+    "wmis_nuclide": 33,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 34,
+  "fields": {
+    "wmis_element": 34,
+    "wmis_nuclide": 34,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 35,
+  "fields": {
+    "wmis_element": 35,
+    "wmis_nuclide": 35,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 36,
+  "fields": {
+    "wmis_element": 36,
+    "wmis_nuclide": 36,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 37,
+  "fields": {
+    "wmis_element": 37,
+    "wmis_nuclide": 37,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 38,
+  "fields": {
+    "wmis_element": 38,
+    "wmis_nuclide": 38,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 39,
+  "fields": {
+    "wmis_element": 39,
+    "wmis_nuclide": 39,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 40,
+  "fields": {
+    "wmis_element": 40,
+    "wmis_nuclide": 40,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 41,
+  "fields": {
+    "wmis_element": 41,
+    "wmis_nuclide": 41,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 42,
+  "fields": {
+    "wmis_element": 42,
+    "wmis_nuclide": 42,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 43,
+  "fields": {
+    "wmis_element": 43,
+    "wmis_nuclide": 175,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 44,
+  "fields": {
+    "wmis_element": 44,
+    "wmis_nuclide": 43,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 45,
+  "fields": {
+    "wmis_element": 45,
+    "wmis_nuclide": 44,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 46,
+  "fields": {
+    "wmis_element": 46,
+    "wmis_nuclide": 45,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 47,
+  "fields": {
+    "wmis_element": 47,
+    "wmis_nuclide": 46,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 48,
+  "fields": {
+    "wmis_element": 48,
+    "wmis_nuclide": 47,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 49,
+  "fields": {
+    "wmis_element": 49,
+    "wmis_nuclide": 176,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 50,
+  "fields": {
+    "wmis_element": 50,
+    "wmis_nuclide": 48,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 51,
+  "fields": {
+    "wmis_element": 51,
+    "wmis_nuclide": 49,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 52,
+  "fields": {
+    "wmis_element": 52,
+    "wmis_nuclide": 50,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 53,
+  "fields": {
+    "wmis_element": 53,
+    "wmis_nuclide": 51,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 54,
+  "fields": {
+    "wmis_element": 54,
+    "wmis_nuclide": 52,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 55,
+  "fields": {
+    "wmis_element": 55,
+    "wmis_nuclide": 53,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 56,
+  "fields": {
+    "wmis_element": 56,
+    "wmis_nuclide": 177,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 57,
+  "fields": {
+    "wmis_element": 57,
+    "wmis_nuclide": 178,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 58,
+  "fields": {
+    "wmis_element": 58,
+    "wmis_nuclide": 54,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 59,
+  "fields": {
+    "wmis_element": 59,
+    "wmis_nuclide": 55,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 60,
+  "fields": {
+    "wmis_element": 60,
+    "wmis_nuclide": 179,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 61,
+  "fields": {
+    "wmis_element": 61,
+    "wmis_nuclide": 180,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 62,
+  "fields": {
+    "wmis_element": 62,
+    "wmis_nuclide": 56,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 64,
+  "fields": {
+    "wmis_element": 63,
+    "wmis_nuclide": 57,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 65,
+  "fields": {
+    "wmis_element": 64,
+    "wmis_nuclide": 58,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 66,
+  "fields": {
+    "wmis_element": 65,
+    "wmis_nuclide": 59,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 67,
+  "fields": {
+    "wmis_element": 66,
+    "wmis_nuclide": 60,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 68,
+  "fields": {
+    "wmis_element": 67,
+    "wmis_nuclide": 61,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 69,
+  "fields": {
+    "wmis_element": 68,
+    "wmis_nuclide": 62,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 70,
+  "fields": {
+    "wmis_element": 69,
+    "wmis_nuclide": 63,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 71,
+  "fields": {
+    "wmis_element": 70,
+    "wmis_nuclide": 182,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 72,
+  "fields": {
+    "wmis_element": 71,
+    "wmis_nuclide": 183,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 73,
+  "fields": {
+    "wmis_element": 72,
+    "wmis_nuclide": 184,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 74,
+  "fields": {
+    "wmis_element": 73,
+    "wmis_nuclide": 185,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 75,
+  "fields": {
+    "wmis_element": 74,
+    "wmis_nuclide": 186,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 76,
+  "fields": {
+    "wmis_element": 75,
+    "wmis_nuclide": 64,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 77,
+  "fields": {
+    "wmis_element": 76,
+    "wmis_nuclide": 65,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 78,
+  "fields": {
+    "wmis_element": 77,
+    "wmis_nuclide": 66,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 79,
+  "fields": {
+    "wmis_element": 78,
+    "wmis_nuclide": 67,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 80,
+  "fields": {
+    "wmis_element": 79,
+    "wmis_nuclide": 68,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 81,
+  "fields": {
+    "wmis_element": 80,
+    "wmis_nuclide": 69,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 82,
+  "fields": {
+    "wmis_element": 81,
+    "wmis_nuclide": 70,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 83,
+  "fields": {
+    "wmis_element": 82,
+    "wmis_nuclide": 71,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 84,
+  "fields": {
+    "wmis_element": 83,
+    "wmis_nuclide": 72,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 85,
+  "fields": {
+    "wmis_element": 84,
+    "wmis_nuclide": 73,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 86,
+  "fields": {
+    "wmis_element": 85,
+    "wmis_nuclide": 74,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 87,
+  "fields": {
+    "wmis_element": 86,
+    "wmis_nuclide": 75,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 88,
+  "fields": {
+    "wmis_element": 87,
+    "wmis_nuclide": 76,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 89,
+  "fields": {
+    "wmis_element": 88,
+    "wmis_nuclide": 77,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 90,
+  "fields": {
+    "wmis_element": 89,
+    "wmis_nuclide": 78,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 91,
+  "fields": {
+    "wmis_element": 90,
+    "wmis_nuclide": 79,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 92,
+  "fields": {
+    "wmis_element": 91,
+    "wmis_nuclide": 80,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 93,
+  "fields": {
+    "wmis_element": 92,
+    "wmis_nuclide": 81,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 94,
+  "fields": {
+    "wmis_element": 93,
+    "wmis_nuclide": 82,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 95,
+  "fields": {
+    "wmis_element": 94,
+    "wmis_nuclide": 83,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 96,
+  "fields": {
+    "wmis_element": 95,
+    "wmis_nuclide": 84,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 97,
+  "fields": {
+    "wmis_element": 96,
+    "wmis_nuclide": 85,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 98,
+  "fields": {
+    "wmis_element": 97,
+    "wmis_nuclide": 86,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 99,
+  "fields": {
+    "wmis_element": 98,
+    "wmis_nuclide": 87,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 100,
+  "fields": {
+    "wmis_element": 99,
+    "wmis_nuclide": 88,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 101,
+  "fields": {
+    "wmis_element": 100,
+    "wmis_nuclide": 89,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 102,
+  "fields": {
+    "wmis_element": 101,
+    "wmis_nuclide": 90,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 103,
+  "fields": {
+    "wmis_element": 102,
+    "wmis_nuclide": 91,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 104,
+  "fields": {
+    "wmis_element": 103,
+    "wmis_nuclide": 92,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 105,
+  "fields": {
+    "wmis_element": 104,
+    "wmis_nuclide": 93,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 106,
+  "fields": {
+    "wmis_element": 105,
+    "wmis_nuclide": 94,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 107,
+  "fields": {
+    "wmis_element": 106,
+    "wmis_nuclide": 95,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 108,
+  "fields": {
+    "wmis_element": 107,
+    "wmis_nuclide": 96,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 109,
+  "fields": {
+    "wmis_element": 108,
+    "wmis_nuclide": 97,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 110,
+  "fields": {
+    "wmis_element": 109,
+    "wmis_nuclide": 98,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 111,
+  "fields": {
+    "wmis_element": 110,
+    "wmis_nuclide": 99,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 112,
+  "fields": {
+    "wmis_element": 111,
+    "wmis_nuclide": 100,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 113,
+  "fields": {
+    "wmis_element": 112,
+    "wmis_nuclide": 101,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 114,
+  "fields": {
+    "wmis_element": 113,
+    "wmis_nuclide": 102,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 115,
+  "fields": {
+    "wmis_element": 114,
+    "wmis_nuclide": 103,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 116,
+  "fields": {
+    "wmis_element": 115,
+    "wmis_nuclide": 104,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 117,
+  "fields": {
+    "wmis_element": 116,
+    "wmis_nuclide": 105,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 118,
+  "fields": {
+    "wmis_element": 117,
+    "wmis_nuclide": 106,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 119,
+  "fields": {
+    "wmis_element": 118,
+    "wmis_nuclide": 107,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 120,
+  "fields": {
+    "wmis_element": 119,
+    "wmis_nuclide": 108,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 121,
+  "fields": {
+    "wmis_element": 120,
+    "wmis_nuclide": 109,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 122,
+  "fields": {
+    "wmis_element": 121,
+    "wmis_nuclide": 110,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 123,
+  "fields": {
+    "wmis_element": 122,
+    "wmis_nuclide": 111,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 124,
+  "fields": {
+    "wmis_element": 123,
+    "wmis_nuclide": 112,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 125,
+  "fields": {
+    "wmis_element": 124,
+    "wmis_nuclide": 113,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 126,
+  "fields": {
+    "wmis_element": 125,
+    "wmis_nuclide": 114,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 127,
+  "fields": {
+    "wmis_element": 126,
+    "wmis_nuclide": 115,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 128,
+  "fields": {
+    "wmis_element": 127,
+    "wmis_nuclide": 116,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 129,
+  "fields": {
+    "wmis_element": 128,
+    "wmis_nuclide": 117,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 130,
+  "fields": {
+    "wmis_element": 129,
+    "wmis_nuclide": 118,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 131,
+  "fields": {
+    "wmis_element": 130,
+    "wmis_nuclide": 119,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 132,
+  "fields": {
+    "wmis_element": 131,
+    "wmis_nuclide": 120,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 133,
+  "fields": {
+    "wmis_element": 132,
+    "wmis_nuclide": 121,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 134,
+  "fields": {
+    "wmis_element": 133,
+    "wmis_nuclide": 122,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 135,
+  "fields": {
+    "wmis_element": 134,
+    "wmis_nuclide": 123,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 136,
+  "fields": {
+    "wmis_element": 135,
+    "wmis_nuclide": 124,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 137,
+  "fields": {
+    "wmis_element": 136,
+    "wmis_nuclide": 125,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 138,
+  "fields": {
+    "wmis_element": 137,
+    "wmis_nuclide": 126,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 139,
+  "fields": {
+    "wmis_element": 138,
+    "wmis_nuclide": 127,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 140,
+  "fields": {
+    "wmis_element": 139,
+    "wmis_nuclide": 128,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 141,
+  "fields": {
+    "wmis_element": 140,
+    "wmis_nuclide": 129,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 142,
+  "fields": {
+    "wmis_element": 141,
+    "wmis_nuclide": 130,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 143,
+  "fields": {
+    "wmis_element": 142,
+    "wmis_nuclide": 131,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 144,
+  "fields": {
+    "wmis_element": 143,
+    "wmis_nuclide": 132,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 145,
+  "fields": {
+    "wmis_element": 144,
+    "wmis_nuclide": 133,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 146,
+  "fields": {
+    "wmis_element": 145,
+    "wmis_nuclide": 134,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 147,
+  "fields": {
+    "wmis_element": 146,
+    "wmis_nuclide": 135,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 148,
+  "fields": {
+    "wmis_element": 147,
+    "wmis_nuclide": 136,
+    "weight_percent": "100.000000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 149,
+  "fields": {
+    "wmis_element": 148,
+    "wmis_nuclide": 9,
+    "weight_percent": "19.900000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 150,
+  "fields": {
+    "wmis_element": 148,
+    "wmis_nuclide": 11,
+    "weight_percent": "80.100000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 151,
+  "fields": {
+    "wmis_element": 149,
+    "wmis_nuclide": 175,
+    "weight_percent": "0.200000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 152,
+  "fields": {
+    "wmis_element": 149,
+    "wmis_nuclide": 43,
+    "weight_percent": "2.180000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 153,
+  "fields": {
+    "wmis_element": 149,
+    "wmis_nuclide": 44,
+    "weight_percent": "14.800000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 154,
+  "fields": {
+    "wmis_element": 149,
+    "wmis_nuclide": 45,
+    "weight_percent": "20.470000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 155,
+  "fields": {
+    "wmis_element": 149,
+    "wmis_nuclide": 46,
+    "weight_percent": "15.650000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 156,
+  "fields": {
+    "wmis_element": 149,
+    "wmis_nuclide": 47,
+    "weight_percent": "24.840000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 157,
+  "fields": {
+    "wmis_element": 149,
+    "wmis_nuclide": 176,
+    "weight_percent": "21.860000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 158,
+  "fields": {
+    "wmis_element": 150,
+    "wmis_nuclide": 177,
+    "weight_percent": "0.140000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 159,
+  "fields": {
+    "wmis_element": 150,
+    "wmis_nuclide": 178,
+    "weight_percent": "1.610000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 160,
+  "fields": {
+    "wmis_element": 150,
+    "wmis_nuclide": 54,
+    "weight_percent": "33.600000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 161,
+  "fields": {
+    "wmis_element": 150,
+    "wmis_nuclide": 55,
+    "weight_percent": "22.950000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 162,
+  "fields": {
+    "wmis_element": 150,
+    "wmis_nuclide": 179,
+    "weight_percent": "26.800000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 163,
+  "fields": {
+    "wmis_element": 150,
+    "wmis_nuclide": 180,
+    "weight_percent": "14.900000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 164,
+  "fields": {
+    "wmis_element": 151,
+    "wmis_nuclide": 181,
+    "weight_percent": "0.162000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 165,
+  "fields": {
+    "wmis_element": 151,
+    "wmis_nuclide": 56,
+    "weight_percent": "5.206000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 166,
+  "fields": {
+    "wmis_element": 151,
+    "wmis_nuclide": 57,
+    "weight_percent": "18.606000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 167,
+  "fields": {
+    "wmis_element": 151,
+    "wmis_nuclide": 58,
+    "weight_percent": "27.297000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 168,
+  "fields": {
+    "wmis_element": 151,
+    "wmis_nuclide": 59,
+    "weight_percent": "13.629000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 169,
+  "fields": {
+    "wmis_element": 151,
+    "wmis_nuclide": 60,
+    "weight_percent": "35.100000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 170,
+  "fields": {
+    "wmis_element": 152,
+    "wmis_nuclide": 116,
+    "weight_percent": "0.005000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 171,
+  "fields": {
+    "wmis_element": 152,
+    "wmis_nuclide": 117,
+    "weight_percent": "0.720000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 172,
+  "fields": {
+    "wmis_element": 152,
+    "wmis_nuclide": 121,
+    "weight_percent": "99.274000"
+  }
+},
+{
+  "model": "nymph.wmiselementcomposition",
+  "pk": 173,
+  "fields": {
+    "wmis_element": 152,
+    "wmis_nuclide": 118,
+    "weight_percent": "0.001000"
+  }
+}
+]
